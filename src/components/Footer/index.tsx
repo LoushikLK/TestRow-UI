@@ -28,7 +28,7 @@ const Footer = () => {
                   <br/>
                   +919792987460 | info@testrow.com 
                   <br/>
-                  USA - 1640 Mulberry Ln, Illinois, Chicago 60123, USA
+                  USA - Chicago, Illinois, 60007, US
                 </p>
                 <div className="flex items-center">
                   <a
